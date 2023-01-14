@@ -1,0 +1,60 @@
+TERMO DE USO
+ 
+1. Quais informações estão presentes neste documento?
+Neste Termo de Uso, o usuário do aplicativo mobile encontrará informações sobre: o funcionamento do serviço e as regras aplicáveis a ele; o arcabouço legal relacionado à prestação do serviço; as responsabilidades do usuário ao utilizar o serviço; as responsabilidades da Doações entre amigos ao prover o serviço; informações para contato, caso exista alguma dúvida ou seja necessário atualizar informações; e o foro responsável por eventuais reclamações caso questões deste Termo de Uso tenham sido violadas.
+2. Aceitação do Termo de Uso e Política de Privacidade
+Ao utilizar os serviços, o usuário confirma que leu e compreendeu os Termos e Políticas aplicáveis ao serviço de doações que é disponibilizado pelo aplicativo mobile e concorda em ficar vinculado a ele.
+3. Definições
+Para melhor compreensão deste documento, neste Termo de Uso e Política de Privacidade, consideram-se:
+Internet: o sistema constituído do conjunto de protocolos lógicos, estruturado em escala mundial para uso público e irrestrito, com a finalidade de possibilitar a fazer e receber doações através do pix.
+Sítios e aplicativos: sítios e aplicativos por meio dos quais o usuário acessa os serviços e conteúdos disponibilizados.
+Usuário individual: Só é possível fazer um cadastro por CPF, todas as pessoas naturais que possuam CPF podem fazer parte da plataforma.
+4. Descrição do serviço
+O usuário fará o pagamento anual de uma anuidade de R$: 30,00, para poder permanecer como membro da plataforma, além do pagamento da anuidade que será cobrada uma vez no ano, o usuário terá que fazer 04 doações para membros uma única vez, o usuário da plataforma não terá nenhuma cobrança adicional a não ser essas mencionadas.
+A plataforma poderá ter níveis superiores caso o membro queira participar poderá ter que fazer algumas doações para outros membros, e pagar alguma taxa, porém se manter no nível inicial não terá nenhuma cobrança adicional.
+
+
+5. Quais são as obrigações dos usuários que utilizam o serviço?
+O Usuário é responsável pela reparação de todos e quaisquer danos, diretos ou indiretos (inclusive decorrentes de violação de quaisquer direitos de outros usuários, de terceiros, inclusive direitos de propriedade intelectual, de sigilo e de personalidade), que sejam causados a Doação entre amigos, a qualquer outro Usuário, ou, ainda, a qualquer terceiro, inclusive em virtude do descumprimento do disposto nestes Termos de Uso e Política de Privacidade ou de qualquer ato praticado a partir da utilização do serviço.
+A doação entre amigos não poderá ser responsabilizada pelos seguintes fatos:
+a. Equipamento infectado ou invadido por atacantes;
+b. Equipamento avariado no momento do consumo de serviços;
+c. Proteção do equipamento;
+d. Proteção das informações baseadas nos equipamentos dos usuários; e. Abuso de uso dos equipamentos dos usuários;
+f. Monitoração clandestina do equipamento dos usuários;
+g. Vulnerabilidades ou instabilidades existentes nos sistemas dos usuários;
+O uso comercial das expressões utilizadas em aplicativos como marca, nome empresarial ou nome de domínio, além dos conteúdos do serviço, assim como os programas, bancos de dados, redes e arquivos estão protegidos pelas leis e tratados internacionais de direito autoral, marcas, patentes, modelos e desenhos industriais.
+Ao acessar o aplicativo, os usuários declaram que irão respeitar todos os direitos de propriedade intelectual e os decorrentes da proteção de marcas, patentes e/ou desenhos industriais, depositados ou registrados em, bem como todos os direitos referentes a terceiros que porventura estejam, ou estiverem de alguma forma, disponíveis no serviço. O simples acesso ao serviço não confere aos usuários qualquer direito ao uso dos nomes, títulos, palavras, frases, marcas, patentes, imagens, dados e informações, dentre outras, que nele estejam ou estiverem disponíveis.
+A reprodução de conteúdo descritos anteriormente está proibida, salvo com prévia autorização por escrito ou caso se destinem ao uso exclusivamente pessoal e sem que em nenhuma circunstância os usuários adquiram qualquer direito sobre esses conteúdos.
+Os visitantes e usuários assumem toda e qualquer responsabilidade, de caráter civil e/ou criminal, pela utilização indevida das informações, textos, gráficos, marcas, imagens, enfim, todo e qualquer direito de propriedade intelectual ou industrial do serviço.
+Em nenhuma hipótese, Doação entre amigos será responsável pela instalação no equipamento do Usuário ou de terceiros, de códigos maliciosos (vírus, trojans, malware, worm, bot, backdoor, spyware, rootkit, ou de quaisquer outros que venham a ser criados), em decorrência da navegação na Internet pelo usuário.
+6. Quais são as responsabilidades da doação entre amigos?
+Publicar e informar ao Usuário as futuras alterações a estes Termos de Uso e Política de Privacidade conforme o princípio da publicidade estabelecido no artigo 37, caput, da Constituição Federal.
+Em nenhuma hipótese, a doação entre amigos será responsável pela instalação no equipamento do Usuário ou de terceiros, de códigos maliciosos (vírus, trojans, malware, worm, bot, backdoor, spyware, rootkit, ou de quaisquer outros que venham a ser criados), em decorrência da navegação na Internet pelo usuário.
+Em hipótese alguma, o serviço e seus colaboradores responsabilizam-se por eventuais danos diretos, indiretos, emergentes, especiais, imprevistos ou multas causadas, em qualquer matéria de responsabilidade, seja contratual, objetiva ou civil (inclusive negligência ou outras), decorrentes de qualquer forma de uso do serviço, mesmo que advertida a possibilidade de tais danos.
+O usuário concorda que não usará robôs, sistemas de varredura e armazenamento de dados (como “spiders” ou “scrapers”), links escondidos ou qualquer outro recurso escuso, ferramenta, programa, algoritmo ou método coletor/extrator de dados automático para acessar, adquirir, copiar ou monitorar o serviço, sem permissão expressa por escrito do órgão.
+Ao concordar com este Termo de Uso e utilizar o aplicativo móvel, o usuário receberá uma permissão dos serviços oferecidos pelo aplicativo, o que, em nenhuma hipótese, fará dele proprietário do aplicativo móvel.
+Caso o usuário descumpra o Termo de Uso ou a Política de Privacidade, ou seja investigado em razão de má conduta, este deverá responder legalmente por essa conduta.
+A plataforma doação entre amigos, quanto às ordens judiciais de pedido de informações, compartilhar informações necessárias para investigações ou tomar medidas relacionadas a atividades ilegais, suspeitas de fraude ou ameaças potenciais contra pessoas, bens ou sistemas que sustentam o serviço ou de outra forma necessária para cumprir com as obrigações legais.
+A plataforma ajuda entre amigos se compromete a preservar a funcionalidade do serviço ou aplicativo, utilizando um layout que respeite a usabilidade e navegabilidade, facilitando a navegação sempre que possível, e exibir as funcionalidades de maneira completa, precisa e suficiente, de modo que as operações realizadas no serviço sejam claras.
+7. Qual o contato pelo qual o usuário do serviço pode tirar suas dúvidas?
+Caso o usuário tenha alguma dúvida sobre este Termo de Uso, ele poderá entrar em contato pelo e-mail contato@doacaoentreamigos.com.br.
+ 
+POLÍTICA DE PRIVACIDADE
+Esta Política de Privacidade foi elaborada em conformidade com a Lei Federal n. 12.965 de 23 de abril de 2014 (Marco Civil da Internet).
+Esta Política de Privacidade poderá ser atualizada em decorrência de eventual atualização normativa, razão pela qual se convida o usuário a consultar periodicamente esta seção.
+8. Segurança do serviço disponibilizado pelo aplicativo mobile
+Para a garantia da segurança, serão adotadas soluções que levem em consideração: as técnicas adequadas; os custos de aplicação; a natureza, o âmbito, o contexto e os riscos para os direitos e liberdades do usuário.
+No entanto o serviço disponibilizado pelo aplicativo mobile se exime de responsabilidade por culpa exclusiva de terceiro, como em caso de ataque de hackers ou crackers, ou culpa exclusiva do usuário.
+9. O serviço da plataforma utiliza cookies?
+O serviço da doação entre amigos disponibilizado pelo aplicativo mobile não utiliza cookies.
+10. Este Termo de Uso pode ser alterado?
+O editor se reserva o direito de modificar, a qualquer momento as presentes normas, especialmente para adaptá-las às evoluções do serviço doação entre amigos, seja pela disponibilização de novas funcionalidades, seja pela supressão ou modificação daquelas já existentes.
+Qualquer alteração e/ou atualização destes Termos de Uso e Política de Privacidade passará a vigorar a partir da data de sua publicação.
+11. Qual o foro aplicável caso o usuário queira realizar alguma reclamação?
+Este termo será regido pela legislação brasileira. Qualquer reclamação ou controvérsia com base neste termo será dirimida exclusivamente pela seção judiciária do domicílio do usuário.
+
+
+
+
+São Paulo, 14 de Janeiro de 2023
